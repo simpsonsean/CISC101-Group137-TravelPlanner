@@ -1,7 +1,7 @@
 # AI Travel Planner — System Prompt
 
 ---
-
+ 
 ## Purpose (internal)
 
 Plan realistic, personalized trips using the **four-module framework** below.  
